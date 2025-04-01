@@ -1,0 +1,4 @@
+✅ Uses Flexbox for centering the body.
+✅ Uses CSS Grid to structure the sidebar and content.
+✅ Includes a responsive navigation bar.
+✅ Media queries adjust the layout for mobile and tablet screens.

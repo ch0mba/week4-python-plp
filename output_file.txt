@@ -1,0 +1,7 @@
+✅ Uses Flexbox for centering the body.
+✅ Use tailwind CSS to structure the sidebar and content.
+✅ Includes a responsive navigation bar.
+✅ Media queries adjust the layout for mobile and tablet screens.✅ USES FLEXBOX FOR CENTERING THE BODY.
+✅ USE TAILWIND CSS TO STRUCTURE THE SIDEBAR AND CONTENT.
+✅ INCLUDES A RESPONSIVE NAVIGATION BAR.
+✅ MEDIA QUERIES ADJUST THE LAYOUT FOR MOBILE AND TABLET SCREENS.
